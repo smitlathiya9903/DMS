@@ -1,6 +1,6 @@
 
   # DMS
-  ## DMS is Diamond management system for MSME, DMS provides the inside details of the business which helps to grow the business and also helps in day-to-day operations by using its industry-oriented UI specifically made for diamond industry. 
+  #### DMS is a Diamond management system for MSME, DMS provides the inside details of the business which helps to grow the business and also helps in day-to-day operations by using its industry-oriented UI specifically made for the diamond industry. 
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
